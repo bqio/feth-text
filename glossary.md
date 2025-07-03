@@ -35,6 +35,16 @@
 - Silver Snow - **Серебряный Снег**
 - Viskam - **Вискам**
 - Blade Breaker - **Разрушитель Клинков**
+- Unit - юнит
+- Certification Exams - квалификационный экзамен ИЛИ аттестация
+- Exam Seal - экзаменационная печать
+- Beginner Seal - начальная печать
+- Intermediate Seal - средняя печать
+- Advanced Seal - продвинутая печать
+- Master Seal - высшая печать
+- Dark Seal - тёмная печать
+- Abyssian Exam Pass - зачётка Бездны
+- Roster - состав
 
 ### Гербология
 
@@ -508,7 +518,7 @@
 - Faith - **Вера**
 - Authority - **Лидерство**
 - Hvy Armor - **Броня**
-- Riding- **Кавалерия**
+- Riding - **Кавалерия**
 - Flying - **Полёт**
 
 
